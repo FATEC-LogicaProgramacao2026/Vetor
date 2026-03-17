@@ -1,10 +1,10 @@
 # Vetor
 
-# 📦 Problema sem vetor
+# Problema sem vetor
 
 Imagine que precisamos guardar **4 notas de um aluno**.
 
-# 📦 Usando Vetor
+# Usando Vetor
 
 Com vetor podemos guardar tudo em **uma única variável**:
 
