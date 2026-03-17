@@ -1,0 +1,21 @@
+algoritmo "Vetor"
+
+var
+  nota: vetor[0 .. 3] de inteiro
+
+inicio
+  escreval("Digite a nota do primeiro semestre: ")
+  leia(nota[0])
+
+  escreval("Digite a nota do segundo semestre: ")
+  leia(nota[1])
+
+  escreval("Digite a nota do terceiro semestre: ")
+  leia(nota[2])
+
+  escreval("Digite a nota do quarto semestre: ")
+  leia(nota[3])
+
+  escreva(nota)
+
+fimalgoritmo
