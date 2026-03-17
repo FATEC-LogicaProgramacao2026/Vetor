@@ -2,7 +2,7 @@ algoritmo "notas"
 
 var
   i: inteiro
-  notas: vetor de inteiro
+  notas: vetor[0..3] de inteiro
    
 inicio
   notas[0] <- 10
