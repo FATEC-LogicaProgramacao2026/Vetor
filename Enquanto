@@ -1,4 +1,4 @@
-algoritmo "notas"
+algoritmo "enquanto"
 
 var
   i: inteiro
